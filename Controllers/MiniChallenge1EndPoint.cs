@@ -1,3 +1,9 @@
+//Isaiah Keith Ferguson
+//10/25/2022
+//MiniChallenge 1 End Points
+//Creating 9 End Points for Postman / Web APi
+//Reviewed by: 
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace FergusonIMiniChallenge1EndPoints.Controllers;
