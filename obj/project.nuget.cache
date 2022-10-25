@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xf7bp8PNYPyCB07vxwGRmYBN89iY9TcMoq8UmntfEadPr55yMtOYGzC/xbxCjd4LypCRfcu+Y58GsAdycfiz6A==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\CodeStacklvl1\\Week2\\FergusonIMiniChallenge1EndPoints\\FergusonIMiniChallenge1EndPoints.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crest\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\crest\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\crest\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\crest\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\crest\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\crest\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
